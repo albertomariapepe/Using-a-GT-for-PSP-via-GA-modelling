@@ -2,4 +2,6 @@ The state of the art in protein structure prediction (PSP) is currently achieved
 
 
 The notebook "Generating_Cost_Maps.ipynb" is used to generate cost maps per chain for each .pdb file in path
+
+
 The notebook "Graph-Transformer.ipynb" defines the transformer, loads the PDNET dataset and adds cost maps to the features. Training and testing are then performed.
