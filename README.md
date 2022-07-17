@@ -6,3 +6,6 @@ We then employ this metric as an additional input feature to a Graph Transformer
 to aid the prediction of the 3D coordinates of a protein. Adding this GA-based 
 orientational information improves the accuracy of the predicted coordinates 
 even after few learning iterations and on a small dataset.
+
+
+The notebook "Generating-Cost-Maps.ipynb" is used to generate cost maps per chain for each .pdb file in path
