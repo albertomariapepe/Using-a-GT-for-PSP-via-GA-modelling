@@ -9,3 +9,4 @@ even after few learning iterations and on a small dataset.
 
 
 The notebook "Generating-Cost-Maps.ipynb" is used to generate cost maps per chain for each .pdb file in path
+The notebook "Graph-Transformer.ipynb" defines the transformer, loads the PDNET dataset and adds cost maps to the features. Training and testing are then performed.
